@@ -1,0 +1,5 @@
+date,stage,decision,owner,evidence
+2026-03-02,Define,Email only. No stored copy and no CRM,Sam Rivera,Reply in chat
+2026-03-02,Define,Honeypot field for spam instead of a captcha,Sam Rivera,Reply in chat
+2026-03-03,Design,Recipient read from an environment variable,Sam Rivera,build-pack.md
+2026-03-04,Deploy,Approved to go live,Priya Shah,Staging results in changes.md
