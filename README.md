@@ -42,6 +42,10 @@ Using a chat assistant with no access to files? Paste [prompts/00-start-here.md]
 
 Each piece of work leaves a folder under `runs/` that says what was asked, what was decided, which files were added, changed or removed, and how to undo it. When you later ask for a change, your AI reads the run that built the thing first, so it changes what you asked for and leaves the rest alone. Read [docs/how-it-works.md](docs/how-it-works.md), then look at [examples/0001-contact-form](examples/0001-contact-form).
 
+## Working with a team?
+
+If you would like to run 5D with your own team, as a workshop built around your tools and your work, see [techshin.com](https://www.techshin.com).
+
 ## Manifesto
 
 Why 5D exists, what I believe about it, and how we talk about it: [5d.tjhitchens.com/manifesto.html](https://5d.tjhitchens.com/manifesto.html).
