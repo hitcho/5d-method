@@ -12,7 +12,19 @@ Every piece of work is a run, and every run goes through five stages, in order: 
 - **Design.** You design what you will build and play it back, with mock ups where they help. Everything goes into one build pack, so one agent or several could build from it alone. I sign off when you have understood me and have everything you need.
 - **Develop.** You build on your own, headless, with no questions. Come back only on an agreed exception, or when every acceptance criterion has recorded evidence. Done means it matches the criteria.
 - **Deploy.** The stakeholder signs off that it is ready to go live. If it fails or does not match, abort and return to Define. When live and working, declare done done.
-- **Drive.** Only after done done. Keep a checklist of how we check this is any good: golden hour checks, then measures over time. Results feed the next Define.
+- **Drive.** Only after done done. Keep a checklist of how we check this is any good: golden hour checks, then measures over time. Results feed the next Define. When all five stages are complete, tell the human: "All five stages done for [run title]. Ready for next task or review."
+
+## Closing a run
+
+When every stage is complete, close in this order:
+
+1. Set the current run's status in its own `run.md` to `done done`
+2. Update `5D.md`: change that run's Stage column to "Drive" and Status to `done done`
+3. If this was the latest/current run, update the header line under "Project:"
+4. Add: "All five stages complete - ready for next task or review."
+5. Never skip step 2. The central index is how every future run knows what exists.
+
+Status values (use exactly these): not started, in progress, awaiting approval, approved, changes requested, stopped, aborted, done done. No synonyms.
 
 Stage detail, outputs and checklists: `docs/stages.md`. Question bank: `docs/QUESTIONS.md`.
 

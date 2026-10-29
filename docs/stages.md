@@ -48,6 +48,16 @@ Start only after done done. Fill in `drive.md`: a checklist of how we check this
 
 Gate: is it delivering the expected value?
 
+When all five stages are complete, close in this order:
+
+1. Set the current run's status in its `run.md` to `done done`
+2. Update `5D.md`: change that run's Stage column to "Drive" and Status to `done done`
+3. If this was the latest/current run, update the header line under "Project:"
+4. Add: "All five stages complete - ready for next task or review."
+5. Never skip step 2. The central index is how every future run knows what exists.
+
+Status values (use exactly these): not started, in progress, awaiting approval, approved, changes requested, stopped, aborted, done done. No synonyms.
+
 ## Handoffs
 
 Before moving on, add the handoff to `handoffs.md`: the output, the decisions made, and what the next stage can rely on. Add the decision to `decisions.csv`: date, stage, decision, owner, evidence.

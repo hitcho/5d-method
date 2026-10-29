@@ -6,6 +6,7 @@ Paste this into your AI.
 Stage 5: Drive.
 
 Owner: [name of the person who reads the measures]
+-- must be a human, never an agent. See AGENTS.md Rule 2.
 
 Only after done done. Keep a checklist of how we check this is any good, and tick each item as it is done.
 
@@ -23,4 +24,8 @@ Rules:
 Do not start the next stage until the owner replies "approved".
 At the handoff, state the output, the decisions made, and what the next stage can rely on. Handoff content: the measured value and the lessons, which feed the next Define.
 Record the decision in the Decision Register.
+
+When all stages are complete, inform the stakeholder:
+"All five stages done. The measured value and lessons are recorded in drive.md.
+Ready for the next task or review."
 ```

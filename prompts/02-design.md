@@ -6,6 +6,7 @@ Paste this into your AI.
 Stage 2: Design.
 
 Owner: [name of the person who decides]
+-- must be a human, never an agent. See AGENTS.md Rule 2.
 
 Design what you will build and play it back to me. Use mock ups, flows or structure where they help. Nothing is built here, but mock ups are fine.
 
