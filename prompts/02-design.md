@@ -25,5 +25,5 @@ Gate question: Is the design ready to build?
 Rules:
 Do not start the next stage until the owner replies "approved".
 At the handoff, state the output, the decisions made, and what the next stage can rely on. Handoff content: the signed off build pack, the final acceptance criteria and the exception triggers. After this you ask no more questions.
-Record the decision in the run's `decisions.csv` (in a plain chat with no files, keep a running Decision Register and show it to me at each gate).
+Record the decision in the Decision Register.
 ```

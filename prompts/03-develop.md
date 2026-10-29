@@ -21,5 +21,5 @@ Gate question: Does it meet the acceptance criteria?
 Rules:
 Gate 3 passes only when every acceptance criterion has recorded evidence. You may not change the criteria to make it pass. Then hand over to Deploy.
 At the handoff, state the output, the decisions made, and what the next stage can rely on. Handoff content: a build with evidence against every acceptance criterion. If any criterion fails, say so plainly and do not hand over as done.
-Record the decision in the run's `decisions.csv` (in a plain chat with no files, keep a running Decision Register and show it to me at each gate).
+Record the decision in the Decision Register.
 ```

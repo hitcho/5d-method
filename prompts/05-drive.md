@@ -22,5 +22,5 @@ Gate question: Is it delivering the expected value?
 Rules:
 Do not start the next stage until the owner replies "approved".
 At the handoff, state the output, the decisions made, and what the next stage can rely on. Handoff content: the measured value and the lessons, which feed the next Define.
-Record the decision in the run's `decisions.csv` (in a plain chat with no files, keep a running Decision Register and show it to me at each gate).
+Record the decision in the Decision Register.
 ```
