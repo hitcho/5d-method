@@ -6,6 +6,7 @@ Paste this into your AI.
 Stage 4: Deploy.
 
 Owner: [name of the stakeholder who signs off]
+-- must be a human, never an agent. See AGENTS.md Rule 2.
 
 Show the stakeholder the results against the criteria. Roll out only after they sign off. If it does not match or does not work, abort.
 

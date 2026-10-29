@@ -6,6 +6,7 @@ Paste this into your AI.
 Stage 3: Develop.
 
 Owner: [name of the person accountable for the result]
+-- Record in run.md owners table. See AGENTS.md Rule 1.
 
 Build from the build pack on your own. Do not ask me questions. Create any graphics, content and code the pack calls for, and test as you go. Come back only if an agreed exception happens.
 

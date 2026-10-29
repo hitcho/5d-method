@@ -7,6 +7,7 @@ Stage 1: Define.
 
 Owner: [name of the person who decides]
 
+-- must be a human, never an agent. See AGENTS.md Rule 2.
 I tell you what I want. You ask questions until you understand it, play it back, and write it down.
 
 You may ask me questions in this stage. Ask in small batches and record every answer so nothing is asked twice.
